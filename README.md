@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying on **FAMAF-UNC, Argentina.**
 
-- 🌱 I’m currently learning **C/C++ and Python**
+- 🌱 I’m currently learning **C/C++ and Python.**
 
-- 📫 How to reach me **lautir4mirez@gmail.com**
+- 📫 How to reach me **lautir4mirez@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
