@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
 <h3 align="center">A passionate CS-Student from Argentina!</h3>
+<h3>About me:</h3>
 
 - 🔭 I’m currently studying on **FAMAF-UNC, Argentina.**
 
