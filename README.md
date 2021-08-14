@@ -1,57 +1,24 @@
+<h1 align="center">Hi 👋, I'm Lautaro</h1>
+<h3 align="center">A passionate CS-Student from Argentina!</h3>
+<h3>About me:</h3>
 
-<h1 align='center'>
-  Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Lautaro Ramirez 👨‍💻
-</h1>
+- 🔭 I’m currently studying on **FAMAF-UNC, Argentina.**
 
-<p align='center'>
-  A Computer Science Student from Cordoba, Argentina.
+- 🌱 I’m currently learning **C/C++ and Python.**
+
+- 📫 How to reach me **lautir4mirez@gmail.com.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lautiramirez_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lautiramirez_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lautaro-ramirez-01597a1aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lautaro-ramirez-01597a1aa" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lautiramirez&show_icons=true&locale=en&layout=compact" alt="lautiramirez" /></p>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/ramirezlautaro/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lautiramirez&show_icons=true&locale=en" alt="lautiramirez" /></p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lautiramirez&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/ubuntu-orange.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:lautir4mirez@gmail.com'>lautir4mirez@gmail.com</a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/lautiramirez/lautiramirez"></a>
-</p>
-
-<details>
-  <summary>📃 Resume</summary>
-
-
-## Education
-
-- 📖 **High school**\
-📆 2013 - 2018\
-📍 **Instituto Nuestra Señora del Rosario** - Cordoba, Argentina
-
-- 📖 **University**\
-📆 2019 - moment\
-📍 **Facultad de Matematica, Astronomia y Fisica (FAMAF)** - Cordoba, Argentina
-
-</details>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lautiramirez&" alt="lautiramirez" /></p>
